@@ -1,0 +1,5 @@
+text="python"
+c=0
+for i in text:
+    c+=1
+print(c)
