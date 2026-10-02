@@ -1,0 +1,3 @@
+tuple=(10,20,30,40,50)
+print(tuple[0])
+print(tuple[-1])
